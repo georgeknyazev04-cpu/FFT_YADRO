@@ -5,4 +5,4 @@
 Результат теста для N = 518400:
 <img width="1814" height="503" alt="test_result" src="https://github.com/user-attachments/assets/0c8baf72-7d93-4986-b2f7-914efd05412e" />
 
-Код для запуска теста лежит в main.cpp 
+Код для запуска теста лежит в main.cpp.
